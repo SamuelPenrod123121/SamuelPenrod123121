@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Samuel Penrod, and I'm new to Github! I'm currently studying computer science Brigham Young University.
+##### My name is Samuel Penrod, and I'm new to Github. I'm currently studying computer science Brigham Young University.
+##### I have some coding experience but am excited to learn more!
 
 <!--
 **SamuelPenrod123121/SamuelPenrod123121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
